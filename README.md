@@ -1,5 +1,7 @@
 # Image Watermarking Tool
 
+![Screenshot 1](screenshot.png)
+
 ## Description
 
 This is a simple Python tool for adding watermarks to images. The tool uses the PIL (Python Imaging Library) module to manipulate images and add a specified watermark.
