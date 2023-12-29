@@ -1,6 +1,6 @@
 # Image Watermarking Tool
 
-![Screenshot 1](screenshot.png)
+<img src="screenshot.png" alt="Screenshot" width="400">
 
 ## Description
 
