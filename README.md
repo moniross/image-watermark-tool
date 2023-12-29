@@ -15,7 +15,7 @@ This is a simple Python tool for adding watermarks to images. The tool uses the 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/image-watermark-tool.git
+   git clone https://github.com/moniross/image-watermark-tool.git
    ```
 
 2. Navigate to the project directory:
